@@ -1,0 +1,5 @@
+*.mov
+ref/
+Backup/
+.DS_Store
+*.[0-9]*.toe
